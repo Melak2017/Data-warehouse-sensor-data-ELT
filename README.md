@@ -14,14 +14,18 @@ Docker must be installed on local machine.
 - DockerCompose
 
 ### Installation
-Clone the repo             
-git clone https://github.com/Melak2017/Data-warehouse-sensor-data-ELT.git
 
-License                                
-Distributed under the MIT License. See LICENSE for more information.
-                                
-Contact                   
+Clone the repo
+
+```
+git clone https://github.com/Melak2017/Data-warehouse-sensor-data-ELT.git
+```
+
+License  
+Distributed under the MIT License.
+
+Contact  
 Melaku Mekonnen - melakuandarge100@gmail.com
 
-Acknowledgements                        
+Acknowledgements  
 10 Academy
