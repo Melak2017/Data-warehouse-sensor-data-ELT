@@ -8,7 +8,7 @@ Scalable data warehouse that will host the vehicle trajectory data extracted by 
 
 ## Prerequisites
 
-Docker umst be installed on local machine.
+Docker must be installed on local machine.
 
 - Docker
 - DockerCompose
